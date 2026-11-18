@@ -1,2 +1,2 @@
-# Mk Natural League Processing
-Tugas Nlp
+NAMA : ANDANG QALBUH
+NIM : 24146108
